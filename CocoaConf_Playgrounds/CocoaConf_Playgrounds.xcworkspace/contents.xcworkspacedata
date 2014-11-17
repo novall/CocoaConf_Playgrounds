@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:01_AttributedStrings.playground">
+   </FileRef>
+   <FileRef
+      location = "group:02_Views.playground">
+   </FileRef>
+   <FileRef
+      location = "group:03_NumericalValues.playground">
+   </FileRef>
+   <FileRef
+      location = "group:04_Images.playground">
+   </FileRef>
+   <FileRef
+      location = "group:05_URLs.playground">
+   </FileRef>
+   <FileRef
+      location = "group:06_UITableView.playground">
+   </FileRef>
+   <FileRef
+      location = "group:07_Algorithms.playground">
+   </FileRef>
+   <FileRef
+      location = "group:08_XCPCaptureValue.playground">
+   </FileRef>
+   <FileRef
+      location = "group:09_XCPShowView.playground">
+   </FileRef>
+</Workspace>
